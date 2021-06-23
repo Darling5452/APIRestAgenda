@@ -35,15 +35,6 @@
       "categoria": "Deporte",
       "fecha": "05/06/2021",
       "hora": "08:00"
-    },
-       {
-      "id": 5,
-      "nombre": "Marcelo",
-      "apellido": "Xool Xool",
-      "telefono": "9812344546",
-      "categoria": "Actividad Física",
-      "fecha": "20/06/2021",
-      "hora": "4:00"
     }
   ]
 }
